@@ -20,7 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
 https://github.com/DhruvPatel9924/ModernChai.git
 
 
-2. Open the chai.html file in your browser to view the website.
+2. Open the chair.html file in your browser to view the website.
 
 ## Contributing
 
